@@ -1,5 +1,4 @@
 
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQEO_5X8QVCAMg/profile-displaybackgroundimage-shrink_350_1400/0/1709403271501?e=1727913600&v=beta&t=rVdsUxpT-c5YiuczDudT2R7ir73xtwM7RYNwXF7xJjg)
 <h1 align="center">Hi 👋, I'm Alican</h1>
 <h3 align="center">A passionate Web Developer from Turkey</h3>
 
