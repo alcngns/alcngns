@@ -1,3 +1,5 @@
+![MasterHead](https://media.licdn.com/dms/image/C511BAQHxjUNbm0bvNg/company-background_1536_768/0/1583882155231?e=2147483647&v=beta&t=Vt_srojVonw5IoHo8XBsQ7XG8JURSaC6cCwyGQ_7qHI)
+
 <h1 align="center">Hi 👋, I'm Alican</h1>
 <h3 align="center">A passionate Android developer from Turkey</h3>
 
