@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Android**
 
-- 🌱 I’m currently learning **Java,Kotlin**
+- 🌱 I’m currently learning **Kotlin,Flutter**
 
-- 💬 Ask me about **Java,Kotlin,Android**
+- 💬 Ask me about **Java,Kotlin,Android,Flutter**
 
 - 📫 How to reach me **alican.acg@gmail.com**
 
