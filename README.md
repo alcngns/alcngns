@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alcngns&label=Profile%20views&color=0e75b6&style=flat" alt="alcngns" /> </p>
 
-- 🔭 I’m currently working on **Android**
+- 🔭 I’m currently working on **Android and Cyber Security**
 
-- 🌱 I’m currently learning **Kotlin,Flutter**
+- 🌱 I’m currently learning **Kotlin,Flutter,Python**
 
-- 💬 Ask me about **Java,Kotlin,Android,Flutter**
+- 💬 Ask me about **Kotlin,Android,Flutter,Python**
 
 - 📫 How to reach me **alican.acg@gmail.com**
 
