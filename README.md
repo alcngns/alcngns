@@ -1,15 +1,15 @@
 ![MasterHead](https://media.licdn.com/dms/image/C511BAQHxjUNbm0bvNg/company-background_1536_768/0/1583882155231?e=2147483647&v=beta&t=Vt_srojVonw5IoHo8XBsQ7XG8JURSaC6cCwyGQ_7qHI)
 
 <h1 align="center">Hi 👋, I'm Alican</h1>
-<h3 align="center">A passionate Android developer from Turkey</h3>
+<h3 align="center">A passionate Flutter developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alcngns&label=Profile%20views&color=0e75b6&style=flat" alt="alcngns" /> </p>
 
-- 🔭 I’m currently working on **Android and Cyber Security**
+- 🔭 I’m currently working on **Android and IOS**
 
-- 🌱 I’m currently learning **Kotlin,Flutter,Python**
+- 🌱 I’m currently learning **Flutter, Kotlin**
 
-- 💬 Ask me about **Kotlin,Android,Flutter,Python**
+- 💬 Ask me about **Flutter,Android,Kotlin**
 
 - 📫 How to reach me **alican.acg@gmail.com**
 
