@@ -1,6 +1,6 @@
 ![MasterHead](https://www.winklix.com/blog/wp-content/uploads/2024/03/Hybrid-Mobile-App-Development-banner.jpg)
 <h1 align="center">Hi 👋, I'm Alican</h1>
-<h3 align="center">A passionate Mobil App Developer from Turkey</h3>
+<h3 align="center">A passionate Mobile App Developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Flutter and Kotlin**
 
