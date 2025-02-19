@@ -1,10 +1,10 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D12AQG5plU-vyJFuw/article-cover_image-shrink_720_1280/0/1704651985694?e=2147483647&v=beta&t=Ehhayo1HdKgBkiWjcoAMpid6f6FeJJnAEdfAT7GHMkM)
+![MasterHead](https://www.winklix.com/blog/wp-content/uploads/2024/03/Hybrid-Mobile-App-Development-banner.jpg)
 <h1 align="center">Hi 👋, I'm Alican</h1>
-<h3 align="center">A passionate Flutter Developer from Turkey</h3>
+<h3 align="center">A passionate Mobil App Developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter and Kotlin**
 
-- 💬 Ask me about **Flutter, Android, IOS**
+- 💬 Ask me about **Flutter, Kotlin, Android, IOS**
 
 - 📫 How to reach me **alican.acg@gmail.com**
 
