@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/alcngns/alcngns/blob/main/profile_image.png" alt="Banner" width="60%">
+  <img src="https://github.com/alcngns/alcngns/blob/main/profile_image2.png" alt="Banner" width="60%">
 </p>
 <h1 align="center">Hi 👋, I'm Alican</h1>
-<h3 align="center">A passionate Software Developer from Turkey</h3>
+<h3 align="center">A passionate Data Scientist from Turkey</h3>
 
 - 🌱 I’m currently learning **Machine Learning, SQL, Python**
 
