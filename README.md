@@ -1,19 +1,68 @@
-<p align="center">
-  <img src="https://github.com/alcngns/alcngns/blob/main/profile_image2.png" alt="Banner" width="60%">
-</p>
-<h1 align="center">Hi 👋, I'm Alican</h1>
-<h3 align="center">A passionate Data Scientist from Turkey</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Machine Learning, SQL, Python**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Hi,%20I'm%20Alican%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI+ML+Specialist;Python+%7C+SQL+%7C+Deep+Learning;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+
+</div>
+
+### 👨‍💻 About Me
+
+- 🔭 A **AI/ML Specialist** based in Turkey
+- 🌱 Currently diving deeper into **Machine Learning, SQL, and Python**
+- 💡 Interests: **Artificial Intelligence, Data Science, Deep Learning**
 - 💬 Ask me about **AI, ML, Data Science**
+- 📫 Reach me at: **alican.acg@gmail.com**
+- ⚡ Fun fact: I love turning raw data into meaningful stories
 
-- 📫 How to reach me **alican.acg@gmail.com**
+<br>
 
+### 🛠️ Languages and Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
+<br>
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alcngns&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcngns&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alcngns&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</p>
+
+<br>
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:alican.acg@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alican-g%C3%BCne%C5%9F-92aa36202/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/alicangunes" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=100&section=footer" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=alcngns&color=06B6D4&style=flat-square" alt="profile views"/>
+
+</div>
